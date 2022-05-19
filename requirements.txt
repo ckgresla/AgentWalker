@@ -54,7 +54,6 @@ six==1.16.0
 tensorboard==2.7.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
-torch==1.8.1
 tornado==6.1
 traitlets==5.1.1
 typing_extensions==4.0.0

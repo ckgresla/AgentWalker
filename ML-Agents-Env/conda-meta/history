@@ -1,0 +1,29 @@
+==> 2022-02-07 14:35:52 <==
+# cmd: /Users/ckg-files/miniconda3/bin/conda create --name ML-Agents-Env
+# conda version: 4.11.0
+==> 2022-02-07 14:46:31 <==
+# cmd: /Users/ckg-files/miniconda3/bin/conda install pip
+# conda version: 4.11.0
++defaults/noarch::tzdata-2021e-hda174b7_0
++defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
++defaults/osx-64::ca-certificates-2021.10.26-hecd8cb5_2
++defaults/osx-64::certifi-2021.10.8-py39hecd8cb5_2
++defaults/osx-64::libcxx-12.0.0-h2f01273_0
++defaults/osx-64::libffi-3.3-hb1e8313_2
++defaults/osx-64::ncurses-6.3-hca72f7f_2
++defaults/osx-64::openssl-1.1.1m-hca72f7f_0
++defaults/osx-64::pip-21.2.4-py39hecd8cb5_0
++defaults/osx-64::python-3.9.7-h88f2d9e_1
++defaults/osx-64::readline-8.1.2-hca72f7f_1
++defaults/osx-64::setuptools-58.0.4-py39hecd8cb5_0
++defaults/osx-64::sqlite-3.37.2-h707629a_0
++defaults/osx-64::tk-8.6.11-h7bc2e8c_0
++defaults/osx-64::xz-5.2.5-h1de35cc_0
++defaults/osx-64::zlib-1.2.11-h4dc903c_4
+# update specs: ['pip']
+==> 2022-02-10 17:37:54 <==
+# cmd: /home/ckg/conda/bin/conda install pip
+# conda version: 4.11.0
+-defaults/osx-64::pip-21.2.4-py39hecd8cb5_0
++defaults/linux-64::pip-21.2.4-py39h06a4308_0
+# update specs: ['pip']
