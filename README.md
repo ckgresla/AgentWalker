@@ -3,6 +3,6 @@ CKG's custom Unity Environment for testing RL agents in a 3D space, included is 
 
 Also included is the custom environment executable (can be imported as a custom env with Gym) for both MacOS ("Environment-1.app") & certain Linux Based Systems ("Environment-1.x86_64")
 
-I aim to test out different RL approaches with this Env and will try to develop multiple implementations over time. 
+The goal is to use this repo as a intermediate testing ground for RL algorithms after something like Cartpole or a 2D Walker
 
 
