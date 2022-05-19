@@ -5,3 +5,7 @@ Also included is the custom environment executable (can be imported as a custom 
 
 This env is significantly harder than the old school Cartpole-esque problems, nice intermediate step for training RL agents
 
+
+![very handsome](CustomUnityEnvironments/TheAgent.png)
+*sweatband not included!
+
